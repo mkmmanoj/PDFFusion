@@ -1,0 +1,5 @@
+{
+  "name": "PDF Fusion",
+  "description": "An intuitive web tool to upload, reorder, and merge multiple PDF files into a single document, directly in your browser.",
+  "requestFramePermissions": []
+}
